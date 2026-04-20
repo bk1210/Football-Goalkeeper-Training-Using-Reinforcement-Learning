@@ -73,3 +73,31 @@ Please follow [PEP 8](https://pep8.org/) style guidelines and include comments f
 ## 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+
+---
+
+## 👤 Contact
+
+**Your Name**
+- 📧 Email: bharathkesav1275@gmail.com
+- 🐙 GitHub: [@bk1210](https://github.com/bk1210)
+- 🎓 Institution:Amrita Vishwa Vidyapeetham
+
+---
+
+## 🙏 Acknowledgements
+
+- [Groq](https://groq.com) — for providing free, ultra-fast LLM inference
+- [Meta AI](https://ai.meta.com/llama/) — for the open-source LLaMA 3.3-70B model
+- [Streamlit](https://streamlit.io) — for making Python web apps effortless
+
+---
+
+<div align="center">
+
+**⭐ If you found this project useful, please give it a star on GitHub! ⭐**
+
+*Built with ❤️ for college students everywhere*
+
+</div>
