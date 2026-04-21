@@ -57,15 +57,7 @@ The system combines three layers:
 
 ## 🖥️ Demo
 
-### Goalkeeper States
-```
-Attacker far away  → IDLE      (slow tracking, low threat)
-Attacker advancing → TRACKING  (threat > 0.4, follows ball)
-Shot incoming      → READY     (threat > 0.8, locks position)
-High confidence    → DIVING    (confidence > 0.6, dives to impact point)
-Post-save          → RECOVERING (returns to optimal position)
-```
-
+![Demo](demo.mp4)
 ### Controls
 ```
 WASD / Arrow Keys  → Move attacker
